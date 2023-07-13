@@ -10,7 +10,8 @@ Is there any implicit bias among the salaries of Atlanta City Employees?
 How can we mitigate any potential for implicit bias in our employees' salaries in the future?
 
 ## Data Source and Exploration
-This data comes from Data World at the following site: https://data.world/brentbrewington/atlanta-city-employee-salaries. This dataset is from 2015.
+This data comes from Data World at the following site: https://data.world/brentbrewington/atlanta-city-employee-salaries. To download the file, click the download button in the upper right of the file. This will download a csv file titled atl_salary_data_2015.csv. You will need to either rename this file salaries.csv or replace the code in cell 2 of the notebook (labeled index.ipynb in this repository) with the following: df = pd.read_csv('atl_salary_data_2015.csv').
+This dataset is from 2015.
 Employee salary information along with identity information was gathered.
 Most features in the dataset were used. These were:
 
@@ -75,7 +76,7 @@ In summary:
 Implicit bias does seem to have affected the employees of the City of Atlanta as of the 2015 data. This model provides a way to showcase that implicit bias for informative purposes and should not be implemented for the creation of an equitable salary. Further analysis of the relationship especially between job.title and ethnic.origin may prove helpful in combatting the bias present in the current salary system, and this analysis should include the employees' years of experience, job level, the departments' methodologies for advancement, and other similar data to better effect equitable salaries in the future. 
 
 
-##Navigating the repository:
+## Navigating the repository:
 * Data can be found in the salaries.csv file
 
 * index.ipynb contains the coding and markup
