@@ -37,9 +37,9 @@ I previewed and cleaned the data, including the following:
 I created the following visualizations for the exploration and analysis above (see index for all visualizations):
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/418af61a-fffc-4c46-8321-9ad7e9ec74b8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/418af61a-fffc-4c46-8321-9ad7e9ec74b8">
-  <img alt="Value count as percentages for column 'sex" src="=https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/418af61a-fffc-4c46-8321-9ad7e9ec74b8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/418af61a-fffc-4c46-8321-9ad7e9ec74b8.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/418af61a-fffc-4c46-8321-9ad7e9ec74b8.png">
+  <img alt="Value count as percentages for column 'sex" src="=https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/418af61a-fffc-4c46-8321-9ad7e9ec74b8.png">
 </picture>
 
 ![Value counts as percentages for column 'ethnic.origin'](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/10b2e2a5-0967-479f-8ce2-6232208a465d)
