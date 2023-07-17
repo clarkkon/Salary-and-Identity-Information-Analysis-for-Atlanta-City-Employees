@@ -42,6 +42,8 @@ I created the following visualizations for the exploration and analysis above (s
   <img alt="Value count as percentages for column 'sex" src="https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/916e8e78-a7ed-4544-925e-eda659940fd1#gh-dark-mode-only">
 </picture>
 
+
+
 ![Value counts as percentages for column 'ethnic.origin'](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/10b2e2a5-0967-479f-8ce2-6232208a465d)
 
 ![Age and Annual Salary Histograms](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/c952b2a0-631f-4724-9263-914f65ee957d)
