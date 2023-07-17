@@ -36,7 +36,7 @@ I previewed and cleaned the data, including the following:
 
 I created the following visualizations for the exploration and analysis above (see index for all visualizations):
 
-![Value count as percentages for column 'sex'](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/63320b22-96bb-4eb9-b039-9dd223611a4f)
+![Value count as percentages for column 'sex'](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/916e8e78-a7ed-4544-925e-eda659940fd1)
 
 ![Value counts as percentages for column 'ethnic.origin'](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/10b2e2a5-0967-479f-8ce2-6232208a465d)
 
