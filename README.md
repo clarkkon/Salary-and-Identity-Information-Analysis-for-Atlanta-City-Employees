@@ -5,6 +5,8 @@ This project investigates identity information to analyze the salaries of Atlant
 
 My stakeholder is the city of Atlanta, who wishes verify whether there is any bias in their current salary tables and wants to mitigate that potential implicit bias in future salary tables for their employees.
 
+Business Questions:
+
 Is there any implicit bias among the salaries of Atlanta City Employees?
 
 How can we mitigate any potential for implicit bias in our employees' salaries in the future?
