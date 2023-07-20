@@ -77,7 +77,7 @@ Implicit bias does seem to have affected the employees of the City of Atlanta as
 
 
 ## Navigating the repository:
-* Data can be found in the salaries.csv file
+* Data for this project can be found in the salaries.csv file
 
 * index.ipynb contains the coding and markup
 
