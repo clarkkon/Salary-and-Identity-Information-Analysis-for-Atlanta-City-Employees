@@ -14,7 +14,7 @@ How can we mitigate any potential for implicit bias in our employees' salaries i
 ## Data Source and Exploration
 This data comes from Data World at the following site: https://data.world/brentbrewington/atlanta-city-employee-salaries. To download the file, click the download button in the upper right of the file. This will download a csv file titled atl_salary_data_2015.csv. You will need to either rename this file salaries.csv or replace the code in cell two of the notebook (labeled index.ipynb in this repository) with the following: df = pd.read_csv('atl_salary_data_2015.csv').
 This dataset is from 2015.
-Employee salary information along with identity information was gathered.
+Employee salary information along with identity information was gathered to create the dataset.
 Most features in the dataset were used. These were:
 
 * age
@@ -25,7 +25,6 @@ Most features in the dataset were used. These were:
 * annual.salary
 
 The target feature is annual_salary.
-
 
 I previewed and cleaned the data, including the following:
 * Checked for placeholder values, duplicates, and null values
@@ -66,7 +65,7 @@ Lastly, I created the following visualization to see the feature importances of 
 
 ## Conclusion and Recommendations:
 
-My exploratory analysis of the dataset suggests that there could be implicit bias in the salaries of Atlanta City Employees. Particularly when it comes to ethnic.origin with police officers and firefighters, black employees make less than white employees.  Morever, the top three departments with the most employees (Atlanta Fire and Rescue, Atlanta Police Department, and the Department of Watershed Management) all pay their black employees less than their white employees overall.  Two of these departments (Atlanta Police Department and the Departmenf of Watershed Management) pay their female employees less than their male employees overall, which compounds with ethnicity leading to Black Female employees being paid the least, then Black Male employees, then White Female employees, then White Male employees at the top being paid the most. 
+My exploratory analysis of the dataset suggests that there could be implicit bias in the salaries of Atlanta City Employees. Particularly when it comes to ethnic.origin with police officers and firefighters, black employees make less than white employees.  Morever, the top three departments with the most employees (Atlanta Fire and Rescue, Atlanta Police Department, and the Department of Watershed Management) all pay their black employees less than their white employees overall.  Two of these departments (Atlanta Police Department and the Departmenf of Watershed Management) pay their female employees less than their male employees overall. This disparity compounds with ethnicity, leading to Black Female employees being paid the least, then Black Male employees, then White Female employees, then White Male employees at the top being paid the most. 
 
 The final model serves as a useful tool for showcasing the potential for implicit bias given the salary and identity information from the 2015 dataset.  It should not be used to create equitable salaries for future employees (which would be a future model), but instead be used to inform the city of Atlanta the ways in which the current system in place privileges certain employees over others. 
 
