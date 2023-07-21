@@ -39,6 +39,8 @@ I created the following visualizations for the exploration and analysis above (s
 
 ![Value counts as percentages for column 'sex'](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/622c84c4-7da3-47de-a27d-919c45391c79)
 
+![Value counts of sex](images/Value counts of sex.jpg)
+
 ![Value counts as percentages for column 'ethnic.origin'](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/10b2e2a5-0967-479f-8ce2-6232208a465d)
 
 ![Age and Annual Salary Histograms](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/c952b2a0-631f-4724-9263-914f65ee957d)
