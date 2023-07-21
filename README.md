@@ -37,26 +37,24 @@ I previewed and cleaned the data, including the following:
 
 I created the following visualizations for the exploration and analysis above (see index for all visualizations):
 
-![Value counts as percentages for column 'sex'](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/622c84c4-7da3-47de-a27d-919c45391c79)
-
 ![Value counts of sex](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/9433f133-c699-454d-9643-8ad0534ab76e)
 
+![Value counts of ethnic origin](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/3821c8ef-8ce3-413a-932b-196496abed76)
 
+![Value counts of organization](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/9ef3eea3-a1f3-415d-9d45-2032bb1f9408)
 
-![Value counts as percentages for column 'ethnic.origin'](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/10b2e2a5-0967-479f-8ce2-6232208a465d)
+![Histograms and Density Plots](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/d55884e6-634d-4e20-b881-1da96e2746fe)
 
-![Age and Annual Salary Histograms](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/c952b2a0-631f-4724-9263-914f65ee957d)
+![Sex and Annual Salary](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/ed25a1eb-0e0e-43f0-b453-c7a469642843)
 
-![Sex and Annual Salary](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/ea0006c8-d585-4c4b-a10a-670ef7531885)
+![Ethnic Origin and Annual Salary (Top Two)](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/99ea6a0e-60de-4712-b4c5-cf46fdb8a54f)
 
-![Ethnic Origin and Annual Salary (Top Two)](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/201a059c-b975-456c-95fe-aa37dd273691)
-
-![Median Annual Salary by Organization, Ethnic Origin, and Sex](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/1d794a01-3599-4b93-8cc1-bd7ba5ee50b6)
+![Median Salary by Organization, Ethnic Origin, and Sex](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/53fd0aaf-d9a9-41d8-a5c7-ef32639f3c14)
 
 ## Modeling
 I wanted to determine the linearity of the dataset in relation to annual salary, so I created the following heatmap.
 
-![Correlation Matrix Heatmap](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/d8f621ec-9a20-43ef-b9b8-183aab7ebadd)
+![Correlation Matrix Heatmap](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/58db43d3-9116-4bd0-87ce-15783c4c4670)
 
 At witnessing the limited linearity, I decided to create a decision tree model.  I  ran an initial model, improved the model with Gradient Boosting, and then improved upon that model with GridSearch.
 
@@ -65,7 +63,7 @@ The root mean squared error (RMSE) for the final model was 10512, which indicate
 
 Lastly, I created the following visualization to see the feature importances of this final model:
 
-![Feature Importances](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/8ce3f266-f6f7-462d-8792-825ab41f33e6)
+![Feature Importances](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/9d5cfe23-abb8-4f19-8317-3195ec1ca82d)
 
 ## Conclusion and Recommendations:
 
