@@ -35,7 +35,7 @@ I previewed and cleaned the data, including the following:
 * Visualized feature distributions
 * Analyzed and visualized median salaries by sex, ethnic.origin, and organization (department). 
 
-I created the following visualizations for the exploration and analysis above (see index for all visualizations):
+I created the following visualizations for the exploration and analysis above (see notebook labeled index.ipynb for all visualizations):
 
 ![Value counts of sex](https://github.com/clarkkon/Salary-and-Identity-Information-Analysis-for-Atlanta-City-Employees/assets/98120389/9433f133-c699-454d-9643-8ad0534ab76e)
 
